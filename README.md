@@ -58,16 +58,28 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+# Nest.js Bookstore CRUD
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+A simple Nest.js project for performing CRUD operations on a bookstore, allowing you to manage books efficiently.
 
-## Stay in touch
+## Table of Contents
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [API Endpoints](#api-endpoints)
+- [Example](#example)
+- [Contributing](#contributing)
+- [License](#license)
 
-## License
+## Features
 
-Nest is [MIT licensed](LICENSE).
+- **Book Management:** Perform CRUD operations on books (Create, Read, Update, Delete).
+- **RESTful API:** Utilize a RESTful API to interact with the bookstore.
+- **Data Persistence:** Store book data using a database (e.g., MongoDB).
+
+## Tech Stack
+
+- **Nest.js:** The project is built using the Nest.js framework, providing a scalable and modular architecture.
+- **Database:** Choose a database system compatible with Nest.js ( MongoDB,).
+- **Postman:** Explore and test API endpoints using Postman.
